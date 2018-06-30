@@ -6,7 +6,7 @@ I solved all these questions and shared the solutions here so that you can have 
 
 *The questions are taken from the book [Assembly Language Programming by Belal Hashmi and Junaid Haroon](https://onlinebookpoint.blogspot.com/2016/10/assembly-language-programming-delivered.html)*
 
-Its an excellent book for 8086 Assembly. It starts from the very basics and then takes you to advanced concepts in an efficient manner. Highly Recommended!
+Its an excellent book for understanding the language and concepts of 8086 Assembly. It starts from the very basics and then takes you to advanced concepts in an efficient manner. Highly Recommended!
 
 ## How to Run
 1- Download this code and move the 'assembly_code' folder to C: directory.
