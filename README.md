@@ -1,6 +1,6 @@
 # Bit Manipulation and Subroutines -8086 Assembly
 
-I solved all these questions and shared the solutions here so that you can understand these concepts with ready to run interesting solved problems.
+I solved all these questions and shared the solutions here so that you can have a strong grip on these concepts with ready to run interesting solved problems.
 
 ## Reference Book
 
@@ -31,7 +31,7 @@ afd chp4_03.com
 
 ## Problems Solved
 
-### Question 1: (Bit Manipulation - Exercise of Chp 4)
+### Question 1: (Exercise of Chp 4 - Bit Manipulation)
 * Q-1. Write a program to swap every pair of bits in the AX register.
 * Q-3. Write a program to swap the nibbles in each byte of the AX register.
 * Q-4. Calculate the number of one bits in BX and complement an equal number of least significant bits in AX.
@@ -40,7 +40,7 @@ afd chp4_03.com
 * Q-7. AX contains a number between 0-15. Write code to complement the corresponding bit in BX. For example if AX contains 6; complement the 6th bit of BX.
 * Q-8. AX contains a non-zero number. Count the number of ones in it and store the result back in AX. Repeat the process on the result (AX) until AX contains one. Calculate in BX the number of iterations it took to make AX one.
 
-### Question 2: (Subroutines - Exercise of Chp 5)
+### Question 2: (Exercise of Chp 5 - Subroutines)
 * Q-3. Write a recursive function to calculate the Fibonacci of a number. The number is passed as a parameter via the stack and the calculated Fibonacci number is returned in the AX register. A local variable should be used to store the return value from the first recursive call. Fibonacci function is defined as follows: Fibonacci(0) = 0 Fibonacci(1) = 1 Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 * Q-4. Write the above Fibonacci function iteratively.
 * Q-5. Write a function switch_stack meant to change the current stack and will be called as below. The function should destroy no registers. push word [new_stack_segment] push word [new_stack_offset] call switch_stack
