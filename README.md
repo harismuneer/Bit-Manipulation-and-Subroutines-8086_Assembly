@@ -25,9 +25,19 @@ c:
 ```
 nasm chp4_03.asm -o chp4_03.com  
 ```
+
+To run the code, type:
+
+```
+chp4_03.com
+```
+
+To examine step by step working of the code, type
+
 ```
 afd chp4_03.com
 ```
+
 
 ## Problems Solved
 
