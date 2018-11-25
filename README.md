@@ -1,4 +1,12 @@
-# Bit Manipulation and Subroutines -8086 Assembly
+# 🖥️ Bit Manipulation and Subroutines -8086 Assembly
+
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly/fork)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.svg)](#)
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+
 
 I solved all these questions and shared the solutions here so that you can have a strong grip on these concepts with ready to run interesting solved problems.
 
@@ -56,14 +64,27 @@ afd chp4_03.com
 * Q-5. Write a function switch_stack meant to change the current stack and will be called as below. The function should destroy no registers. push word [new_stack_segment] push word [new_stack_offset] call switch_stack
 * Q-8. Make an array of 0x80 bytes and treat it as one of 0x400 bits. Write a function myalloc that takes one argument, the number of bits. It p, and returns in AX the index of the first bit. Write another function myfree that takes two arguments, index of a bit in the array, and the number of bits. It makes that many consecutive bits zero, whatever their previous values are, starting from the index in the first argument.
 
+---------------------
 
-## Contact
-You can get in touch with me on my LinkedIn Profile: [Haris Muneer](https://www.linkedin.com/in/harismuneer/)
+## Author
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/harismuneer)
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+## Contributions Welcome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Bit-Manipulation-and-Subroutines-8086_Assembly/issues)
+
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
-[MIT](../master/LICENSE)
-Copyright (c) 2018-present, harismuneer
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
+Copyright (c) 2018-present, harismuneer                                                        
